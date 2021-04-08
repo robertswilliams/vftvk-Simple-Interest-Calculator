@@ -1,4 +1,26 @@
-body {background-color:tan;}
-h1{color:green;}
+body {background-color: black; font-family: Arial, sans-serif; font-color: white;}
+h1{color: grey; font-family: Verdana, sans-serif;}
+.titlediv{
+  background-color:white;
+  font-color:black;
+  width:500px;
+  padding:20px;
+  border-radius: 25px 25px 0px 0px;
+  margin:auto;
 
-
+}
+.maindiv{
+  background-color:white;
+  font-color:black;
+  width:500px;
+  padding-left: 40px;
+  margin:auto;
+  margin-left: 322px;
+}
+.footerdiv{
+  background-color:white;
+  font-color:black;
+  width:500px;
+  padding:20px;
+  border-radius: 0px 0px 25px 25px;
+  margin:auto;}
